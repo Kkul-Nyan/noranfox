@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noranfox
 - 👀 I’m interested in ... Game Developement
-- 🌱 I’m currently learning ... C#,SIQ and Unity
+- 🌱 I’m currently learning ... C#,SIQ, Swift and Unity
 
 
 <!---
